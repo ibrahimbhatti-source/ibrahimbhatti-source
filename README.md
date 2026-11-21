@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently learning AI Engineering, I design, and build LLM based applications: AI powered chatbots, Retrieval-Augmented Generation (RAG) via langChain. 
+I design, and build LLM based applications: AI powered chatbots, Retrieval-Augmented Generation (RAG) via langChain. 
 
 <!--, 
 **ibrahimbhatti-source/ibrahimbhatti-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
